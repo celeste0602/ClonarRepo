@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 19 Dec 2022 08:32:46 at https://juvenusfuturum.com/juvenus-capital/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://juvenusfuturum.com/juvenus-capital/ -O1 "C:\My Web Sites\Plantilla" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:34:07	Error: 	"Not Found" (404) at link https://grupoblindado.com/juvenus/wp-content/themes/benaa/assets/preset/boot-dev.css (from https://juvenusfuturum.com/juvenus-capital/)
+08:34:07	Error: 	"Not Found" (404) at link https://juvenusfuturum.com/wp-content/themes/benaa/assets/images/preset-bg.jpg (from https://juvenusfuturum.com/wp-content/themes/benaa/assets/preset/4305.style.min.css?ver=6.1.1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 21 seconds : 195 links scanned, 192 files written (5763664 bytes overall) [5774838 bytes received at 71294 bytes/sec], 178646 bytes transferred using HTTP compression in 4 files, ratio 19%, 10.8 requests per connection
+(2 errors, 0 warnings, 0 messages)
